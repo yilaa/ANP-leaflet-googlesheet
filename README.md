@@ -1,11 +1,14 @@
-# Leaflet Maps with Google Sheets
-Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
+# Mapa de Áreas Naturales Protegidas (Perú) según cantidad de visitantes
+Permite visualizar rápidamente cuáles son las Áreas Naturales Protegidas más visitadas y las menos visitadas, así como donde se encuentran.  
+Permite filtrar por año y tipo de visitante (nacional y extranjero).  
+Elaborado con la plantilla de Leaflet y Google Sheets de Datavizforall.  
 
-![Preview](preview.jpg)
-
-## Live links (replace with your own)
+## Live links
 - Leaflet Map https://yilaa.github.io/ANP-leaflet-googlesheet/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1nFf4_E0tYUdpoyyfmPCh81QcT01P7ZZ5tSI1rBa8a8k/edit#gid=0
+
+# Leaflet Maps with Google Sheets
+Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
 
 ## Create your own
 - See video with step-by-step tutorial in *Data Visualization for All* https://datavizforall.org/leaflet-maps-with-google-sheets.html
